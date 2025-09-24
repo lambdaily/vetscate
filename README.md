@@ -3,7 +3,6 @@
 Resumen rápido
 - Proyecto NestJS con TypeORM + SQLite (archivo local `db.sqlite`).
 - Endpoints principales: autenticación, usuarios, rooms, reservations.
-- Auto-crea tablas por `synchronize: true`. Revisar migraciones en `src/migrations`.
 
 Requisitos
 - Node >= 18 (testeado con node v20.11.0)
